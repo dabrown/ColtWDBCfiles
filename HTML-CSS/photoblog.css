@@ -1,0 +1,15 @@
+img {
+  width: 30%;
+  margin: 1.66%;
+  float:left;
+}
+p {
+  font-family: Passion+One;
+  margin-left: 1.66%;
+  font-size: 25px;
+  font-weight: 900;
+  text-transform: uppercase;
+  border-bottom: 2px solid #F1F1F1;
+  padding-bottom: 20px;
+  width: 30%;
+}
